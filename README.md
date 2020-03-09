@@ -1,2 +1,0 @@
-# lanxiaohe.github.io
-lanxiaohe
