@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 岚晓荷|爱与热爱</title>
+    <link>http://www.sullor.com/categories/</link>
+    <description>Recent content in Categories on 岚晓荷|爱与热爱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>岚晓荷</copyright>
+    <lastBuildDate>Wed, 12 Feb 2020 05:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.sullor.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>艺术</title>
+      <link>http://www.sullor.com/categories/%E8%89%BA%E6%9C%AF/</link>
+      <pubDate>Wed, 12 Feb 2020 05:33:00 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E8%89%BA%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>咖啡</title>
+      <link>http://www.sullor.com/categories/%E5%92%96%E5%95%A1/</link>
+      <pubDate>Fri, 27 Dec 2019 15:34:49 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E5%92%96%E5%95%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>历史</title>
+      <link>http://www.sullor.com/categories/%E5%8E%86%E5%8F%B2/</link>
+      <pubDate>Fri, 19 Apr 2019 16:38:14 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E5%8E%86%E5%8F%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>有趣有料</title>
+      <link>http://www.sullor.com/categories/%E6%9C%89%E8%B6%A3%E6%9C%89%E6%96%99/</link>
+      <pubDate>Mon, 01 Oct 2018 15:15:09 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E6%9C%89%E8%B6%A3%E6%9C%89%E6%96%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>咖啡豆</title>
+      <link>http://www.sullor.com/categories/%E5%92%96%E5%95%A1%E8%B1%86/</link>
+      <pubDate>Thu, 06 Sep 2018 17:15:07 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E5%92%96%E5%95%A1%E8%B1%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗情</title>
+      <link>http://www.sullor.com/categories/%E8%AF%97%E6%83%85/</link>
+      <pubDate>Fri, 03 Nov 2017 05:30:53 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E8%AF%97%E6%83%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画意</title>
+      <link>http://www.sullor.com/categories/%E7%94%BB%E6%84%8F/</link>
+      <pubDate>Thu, 18 Aug 2016 12:29:45 +0000</pubDate>
+      
+      <guid>http://www.sullor.com/categories/%E7%94%BB%E6%84%8F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
