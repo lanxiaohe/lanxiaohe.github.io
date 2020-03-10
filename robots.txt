@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.sullor.com/sitemap.xml
+Sitemap: http://www.lanxiaohe.com/sitemap.xml
