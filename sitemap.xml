@@ -58,6 +58,34 @@
   </url>
   
   <url>
+    <loc>http://www.lanxiaohe.com/tags/cmon-in/</loc>
+    <lastmod>2020-03-12T05:30:53+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lanxiaohe.com/tags/eason-chan/</loc>
+    <lastmod>2020-03-12T05:30:53+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lanxiaohe.com/html/%E6%9C%89%E5%9B%BE%E7%89%87.html</loc>
+    <lastmod>2020-03-12T05:30:53+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lanxiaohe.com/tags/%E9%99%88%E5%A5%95%E8%BF%85/</loc>
+    <lastmod>2020-03-12T05:30:53+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lanxiaohe.com/html/%E8%89%BA%E6%9C%AF%E4%B8%8E%E8%A7%82%E5%BF%B5-%E5%A1%9E%E5%B0%9A-%E8%8A%82%E9%80%89%E9%87%8D%E7%87%83%E6%97%A9%E5%B9%B4%E6%98%9F%E7%81%AB.html</loc>
     <lastmod>2020-02-12T05:33:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -737,20 +765,6 @@
   </url>
   
   <url>
-    <loc>http://www.lanxiaohe.com/tags/cmon-in/</loc>
-    <lastmod>2017-11-03T05:30:53+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lanxiaohe.com/tags/eason-chan/</loc>
-    <lastmod>2017-11-03T05:30:53+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lanxiaohe.com/html/%E5%90%AC%E4%BD%A0%E7%9A%84%E6%AD%8C.html</loc>
     <lastmod>2017-11-03T05:30:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -759,13 +773,6 @@
   
   <url>
     <loc>http://www.lanxiaohe.com/categories/%E8%AF%97%E6%83%85/</loc>
-    <lastmod>2017-11-03T05:30:53+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lanxiaohe.com/tags/%E9%99%88%E5%A5%95%E8%BF%85/</loc>
     <lastmod>2017-11-03T05:30:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
