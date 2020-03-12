@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>岚晓荷</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 05:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 08:53:08 +0000</lastBuildDate>
     
 	<atom:link href="http://www.lanxiaohe.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我是个测试</title>
+      <link>http://www.lanxiaohe.com/html/%E6%88%91%E6%98%AF%E4%B8%AA%E6%B5%8B%E8%AF%95.html</link>
+      <pubDate>Thu, 12 Mar 2020 08:53:08 +0000</pubDate>
+      
+      <guid>http://www.lanxiaohe.com/html/%E6%88%91%E6%98%AF%E4%B8%AA%E6%B5%8B%E8%AF%95.html</guid>
+      <description>手动阀发 sf</description>
+    </item>
     
     <item>
       <title>《艺术与观念 – 塞尚》-节选(重燃早年星火)&#39;</title>
